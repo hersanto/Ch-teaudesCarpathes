@@ -1,6 +1,8 @@
 # Dossier
 Ce dossier est l’analyse de l’œuvre *« Le Château des Carpates »* écrit par Jules Verne. Pour cela, j’ai récupéré l’œuvre au format texte que j’ai encodé de manière à séparer les chapitres. Puis pour approfondir cette analyse, j’ai utilisé le logiciel Iramuteq qui m’a permis de détailler les résultats suivants.
 
+Le dossier [CSV](https://github.com/hersanto/ChateaudesCarpathes/tree/master/CSV) contient 3 types de fichiers CSV : les [formes actives](https://github.com/hersanto/ChateaudesCarpathes/blob/master/CSV/formes_actives.csv), [supplémentaires](https://github.com/hersanto/ChateaudesCarpathes/blob/master/CSV/formes_suppl%C3%A9mentaires.csv) et le [total](https://github.com/hersanto/ChateaudesCarpathes/blob/master/CSV/total.csv) regroupant les 2 précédents. Ces fichiers permettent une meilleure analyse de l'oeuvre.
+
 ## Format texte et epub
 J’ai trouvé le texte sur le site de [Gutenberg](http://www.gutenberg.org/files/5082/5082-0.txt).
 
