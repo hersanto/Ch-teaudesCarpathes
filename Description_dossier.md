@@ -4,19 +4,21 @@ Ce dossier est l’analyse de l’œuvre *« Le Château des Carpates »* écrit
 ## Format texte et epub
 J’ai trouvé le texte sur le site de [Gutenberg](http://www.gutenberg.org/files/5082/5082-0.txt)
 Afin de l’analyser correctement, j’ai formaté le texte de manière à séparer les chapitres tout en supprimant les textes anglais ne correspondant pas à l’œuvre, le nettoyant de tout ce qui ne serait pas pertinent pour cette analyse.
-Légende de formatage :
-**** : introduit le texte
-*: introduit une variable
+
+##### Légende de formatage :
+* **** : introduit le texte
+* *: introduit une variable
 
 Lien vers le format [.txt](https://github.com/hersanto/ChateaudesCarpathes/blob/master/ChateauDesCarpates.txt)
-Lien vers le format [epub](file:///C:/Users/Ophélie/Documents/GitHub/ChateaudesCarpathes/chateauDesCarpates.epub)
+
+Lien vers le format [epub](https://github.com/hersanto/ChateaudesCarpathes/blob/master/chateauDesCarpates.epub)
 
 ### Résumé
-Nombre de textes : 18
-Nombre de segments de texte : 1 536
-Occurrences : 54 610
-Nombre de formes : 7 476
-Nombre d’hapax : 4 152 – 55.54% des formes – 7.60% des occurrences
+* Nombre de textes : 18
+* Nombre de segments de texte : 1 536
+* Occurrences : 54 610
+* Nombre de formes : 7 476
+* Nombre d’hapax : 4 152 – 55.54% des formes – 7.60% des occurrences
 
 ![Résumé](https://github.com/hersanto/ChateaudesCarpathes/blob/master/Visualisation%20-%20Images/zipf.png)
 
