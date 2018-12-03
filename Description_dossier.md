@@ -37,4 +37,7 @@ Visuellement cette analyse est un peu brouillon mais apporte néanmoins une visu
 ![Occurences](https://github.com/hersanto/ChateaudesCarpathes/blob/master/Visualisation%20-%20Images/graph_simi_1.png)
 
 
-Analyse factorielle des correspondances
+## Analyse factorielle des correspondances
+
+Cette analyse va permettre de hiérarchiser les informations des textes. Les couleurs permettent de mieux voir les mots.
+![Analyse factorielle des correspondances](https://github.com/hersanto/ChateaudesCarpathes/blob/master/Visualisation%20-%20Images/graph_afc_1.png)
