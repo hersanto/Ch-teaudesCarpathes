@@ -15,5 +15,7 @@ transformation digitale] (
 ### **Webographie**
 
 [Transformation digitale](https://www.inboundvalue.com/blog/que-signifie-la-transformation-digitale-en-2000-mots)
+
 [Les digital Humanities](https://hal.archives-ouvertes.fr/hal-01494347/document)
+
 [Histoire des humanités digitales](https://halshs.archives-ouvertes.fr/halshs-01484116/document)
