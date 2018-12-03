@@ -11,7 +11,7 @@ Les utilisateurs sont connectés aux œuvres et peuvent également participer et
 
 
 Pour conclure, la digitalisation de l’œuvre offre de nombreuses possibilités aux Humanités Digitales, allant de la lecture au partage, du référencement aux annotations. Néanmoins, il faut reconnaître certaines limites afin de mieux les contrôler. On peut donc dire que la transformation digitale repose véritablement sur un changement dans notre façon de penser.
-transformation digitale] (
+
 ### **Webographie**
 
 [Transformation digitale](https://www.inboundvalue.com/blog/que-signifie-la-transformation-digitale-en-2000-mots)
